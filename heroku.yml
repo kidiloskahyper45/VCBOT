@@ -2,4 +2,4 @@ build:
   docker:
     worcker: Docker file
 run:
- worcker: python3 main.py
+ worcker: python main.py
