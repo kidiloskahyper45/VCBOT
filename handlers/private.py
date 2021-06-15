@@ -7,7 +7,7 @@ from helpers.filters import other_filters2
 @Client.on_message(other_filters2)
 async def start(_, message: Message):
     await message.reply_text(
-        f"""I am an  LEGENDX bot, I let you play music in your group's voice chat.
+        f"""Hey bot IAM also bot sing a song for me Noob bot.
 
 The commands I currently support are:
 
@@ -21,10 +21,10 @@ The commands I currently support are:
             [
                 [
                     InlineKeyboardButton(
-                        "Group", url="https://t.me/ultraxchat"
+                        "Group", url="https://t.me/rosebakthan"
                     ),
                     InlineKeyboardButton(
-                        "Channel", url="https://t.me/ultraxot"
+                        "creator ", url="https://t.me/rosebakthan_bot"
                     )
                 ]
             ]
